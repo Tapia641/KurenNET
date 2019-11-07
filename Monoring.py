@@ -19,7 +19,7 @@ class Kuren:
 
     def outputData(self):
         print("Ejecutando NetHogs en " + self.interfaz)
-        mystring = "nethogs " + self.interfaz + " >> home/tapia/Documentos/Python/data.txt"
+        mystring = "nethogs " + self.interfaz + " >> data.txt"
         proc = Popen(shlex.split(mystring), stdout=PIPE, stderr=PIPE)
         timer = Timer(10, proc.kill)
         try:
