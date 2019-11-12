@@ -3,7 +3,7 @@ import os, time
 
 # Tiempo y comunicacion procesos
 import shlex
-from subprocess import Popen, PIPE
+from subprocess import Popen, PIPE, check_output
 from threading import Timer
 
 class Kuren:
