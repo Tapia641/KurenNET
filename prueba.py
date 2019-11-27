@@ -16,7 +16,7 @@ class Kuren:
         os.system("ifconfig")
         print("")
         print("---------------------------------------------------")
-        print("Ingresa el nombre de la interfaz a monitorear:")
+        print("Ingresa el nombre de la interfáz a monitorear:")
         self.interfaz = str(input())
         os.system("clear")
 
