@@ -36,7 +36,28 @@ class Kuren:
                 print(stderr)
         finally:
             timer.cancel()
-        
-n = Kuren()
-n.function()
-n.outputData()
+    def getNamePID(self):
+        f = open ('output.txt','r+')
+        lines = f.readlines()
+        A =[]
+        for i in range(len(lines)):
+            if lines[i] == "Refreshing:\n":
+                l = lines[i+1]                      
+                print(l)
+                x = l.split("/")
+                x.reverse()
+                #print(x)
+                if(len(x)>3):
+                     A.append(x[2])
+        R = set(A)
+        print(R)
+        f.close()
+
+if __name__ == '__main__':
+
+    
+    n = Kuren()
+    n.function()
+    n.outputData()
+    n.getNamePID()
+    
