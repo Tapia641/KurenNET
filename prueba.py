@@ -54,11 +54,8 @@ class Kuren:
         return R        
         
 
-if __name__ == '__main__':
-
-    
+if __name__ == '__main__':    
     n = Kuren()
     n.function()
     n.outputData()
-    n.getNamePID()
     
