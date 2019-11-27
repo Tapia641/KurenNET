@@ -23,13 +23,13 @@ class Kuren:
     def outputData(self):
         #Grabamos la salida del shell
         print("Ejecutando NetHogs en " + self.interfaz)
-        proc = subprocess.Popen("nethogs %s -b > output.txt" % self.interfaz, shell=True)
+        proc = subprocess.Popen("nethogs %s -t > output.txt" % self.interfaz, shell=True)
         timer = Timer(10, proc.kill)
         
         try:
             timer.start()
             stdout, stderr = proc.communicate()
-            if stdout == "None" and stderr == "None":
+            if stdout == None and stderr == None:
                 print("Correct")
             else:
                 print(stdout)
