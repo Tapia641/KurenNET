@@ -49,9 +49,10 @@ class Kuren:
                 #print(x)
                 if(len(x)>3):
                      A.append(x[2])
-        R = set(A)
-        print(R)
         f.close()
+        R = set(A)
+        return R        
+        
 
 if __name__ == '__main__':
 
