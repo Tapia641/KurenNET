@@ -1,6 +1,8 @@
 #!/usr/bin/python
 import subprocess
 import time
+import datetime
+
 # LIBRERIAS PARA MAIL
 import smtplib
 from email.mime.multipart import MIMEMultipart
@@ -131,16 +133,22 @@ class Kuren:
         return PIDS
 
     def killProcess(self, LISTA):
-        for i in LISTA:
-            print("i: ", i)
-            if not int(i) == self.important:                
-                os.system("kill -TERM %i" % int(i))
-                f = open ('REPORTE.txt','w')
-                f.write("Se mató el proceso {} \t a la hora >: {}".format(i,time.gmtime()))
-                f.close()
-                print("Se mato al proceso: ", i)
-        self.sendNotificacion()
-        print("SE MANDÓ EL REPORTE AL CORREO EXITOSAMENTE")
+        contKills = 0
+        if len(LISTA) > 0:
+            f = open ('REPORTE.html','w')
+            for i in LISTA:
+                print("i: ", i)
+                if not int(i) == self.important:                
+                    os.system("kill -TERM %i" % int(i))
+                    f.write("Se mató el proceso <h5> {} a la hora {}\n".format(i,datetime.datetime.now()))
+                    contKills = contKills + 1
+                    print("Se mato al proceso: ", i)
+            f.close()
+        else:
+            os.system("clear")
+            print("No hay excedente de velocidad activos")
+        if contKills > 0:
+            self.sendNotificacion()
     
     def sendNotificacion(self):
         # Iniciamos los parámetros del script
@@ -198,9 +206,8 @@ class Kuren:
 if __name__ == "__main__":
     n = Kuren()
     n.dataInput()
-    n.saveOutput()
-    A = n.getName()
-    L = n.getPID(A)
-    n.killProcess(L)
-    
-
+    while 1:
+        n.saveOutput()
+        A = n.getName()
+        L = n.getPID(A)
+        n.killProcess(L)
