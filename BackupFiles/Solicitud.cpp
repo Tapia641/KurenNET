@@ -27,7 +27,7 @@ char *Solicitud::doOperation(char *IP, int puerto, int operationId, char *argume
 		tam = socketlocal->recibeTimeout(p1, 2, 500);
 		n++;
 	}
-	if (n == 7) {
+	if (tam == -1) {
 		cout << "Servidor no esta disponible, intente mas tarde." << endl;
 		exit(0);
 	}

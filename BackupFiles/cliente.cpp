@@ -102,10 +102,13 @@ void enviar1(char * ip,int puerto){
 		string lastc = string(r.celular);
 		lastc=lastc.back();
 		int lastN = atoi(lastc.c_str());
+		if (lastN >= 0 && lastN <= 3)
+		{
 			cout << "Hilo 1: " << endl;
 			memcpy(&res, s.doOperation(ip, puerto, 1, (char *)&r),sizeof(timeval));
 			cout << res.tv_sec << endl;
 			cout << res.tv_usec << endl;
+		}
 		cont++;
 	}
 	cout<< "Hilo 1, Procese: " << cont<<endl;
@@ -164,45 +167,41 @@ struct Servidor{
 
 int main(int argc, char *argv[]){
 	
-	if (argc != 4)
+	if (argc != 8)
 	{
 		//7 IP PORT IP PORT IP PORT
 		printf("Forma de uso: %s ip_servidor n\n", argv[0]);
 		exit(0);
 	}
 	Servidor s1;
+	Servidor s2;
+	Servidor s3;
 	s1.ip=argv[1];
 	s1.port=atoi(argv[2]);
+	s2.ip=argv[3];
+	s2.port=atoi(argv[4]);
+	s3.ip=argv[5];
+	s3.port=atoi(argv[6]);
 	srand(time(NULL));
+	n = atoi(argv[7]);
+	int cont = 0;
 
-	while (1)
-	{
-	
-		n = atoi(argv[3]);
-		int cont = 0;
-
-		//Llena una lista con numeros telefonicos de 9 digitos secuenciales creibles
-		int inicial = 500000000 + rand()%100000000;
-		for (int i = inicial; i < inicial + n; i++) 
-		{ 
-			lista1.push_back(i);
-		}
-		
-		Solicitud s;
-		timeval res;
-		while(cont < n) {
-			int port;
-			struct registro r = GenerarVoto(cont, 1);
-			string lastc = string(r.celular);
-			lastc=lastc.back();
-			int lastN = atoi(lastc.c_str());
-				cout << "Hilo 1: " << endl;
-				memcpy(&res, s.doOperation(s1.ip, s1.port, 1, (char *)&r),sizeof(timeval));
-				cout << res.tv_sec << endl;
-				cout << res.tv_usec << endl;
-			cont++;
-		}
+	//Llena una lista con numeros telefonicos de 9 digitos secuenciales creibles
+	int inicial = 500000000 + rand()%100000000;
+	for (int i = inicial; i < inicial + n; i++) 
+	{ 
+		lista1.push_back(i);
+		lista2.push_back(i);
+		lista3.push_back(i);
 	}
+	
+	thread t1(enviar1,s1.ip,s1.port);
+	thread t2(enviar2,s2.ip,s2.port);
+	thread t3(enviar3,s3.ip,s3.port);
+
+	t1.join();
+	t2.join();
+	t3.join();
 
 	return 0;
 }
