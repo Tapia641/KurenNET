@@ -191,10 +191,10 @@ if __name__ == "__main__":
     L = n.getPID(A)
     n.killProcess(L)
     
-    # asunto = "REPORTE DE MONITOREO DE BW"
+    # asunto = 'REPORTE DE MONITOREO DE BW'
     # destinatarios = ['rodrigogarciaavila26@gmail.com','tapia641@gmail.com']
-    # remitente = "proyectowad1221@gmail.com"
-    # path = '/home/rodrigo/Escritorio/Manticora/OUTPUT.txt'
+    # remitente = 'proyectowad1221@gmail.com'
+    # path = 'OUTPUT.txt'
     # file_name = 'OUTPUT.txt'
-    # password = 'ytrewq321'
-    # n.sendNotificacion(remitente,password,destinatarios,asunto,path,file_name)
+    # password ='ytrewq321'
+    # mensaje(remitente,password,destinatarios,asunto,path,file_name)
