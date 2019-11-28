@@ -1,0 +1,1113 @@
+Adding local address: 10.100.75.232
+Adding local address: fe80::be9a:664e:2dc4:f1ed
+Ethernet link detected
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.0144531	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.0394531	0.0128906
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.374023	0.0128906
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.485547	0.0128906
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.59707	0.0128906
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.611523	0.0128906
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.710352	1.36133
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.436719	1.38711
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.575586	1.52559
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.503906	1.52559
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.365625	0.315625
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.544141	0.353711
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.390234	0.202344
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.373828	0.619336
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.417188	1.45938
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.0144531	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.431641	1.78086
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.0289063	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.253125	1.6043
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.0289063	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.110156	1.6043
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.0433594	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.0972656	1.29453
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.276953	0.0128906
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.0738281	0.628906
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.374023	0.0128906
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.471094	0.0128906
+/usr/share/code/code/21936/1000	0.0433594	0.0117188
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.285937	0.0492188
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.481641	0.0386719
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.306836	1.07656
+/usr/share/code/code/21936/1000	0.432813	0.333203
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.236914	1.38516
+/usr/share/code/code/21936/1000	0.580664	1.07539
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.831055	1.40566
+/usr/share/code/code/21936/1000	0.580664	1.08828
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.641602	1.72773
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.41152	1.43027
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.587305	2.30215
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.42813	1.5002
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.788086	2.65176
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.32773	0.152539
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.798437	2.63594
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.748047	0.132031
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.777539	2.08574
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.289648	0.120312
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.788086	2.08574
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.310742	0.711719
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.283594	0.628906
+/usr/share/code/code/21936/1000	0.122266	0.565039
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.283594	0.628906
+/usr/share/code/code/21936/1000	0.122266	0.565039
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.283594	0.628906
+/usr/share/code/code/21936/1000	0.122266	0.565039
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.132617	0.604297
+/usr/share/code/code/21936/1000	0.0482422	0.040625
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.132617	0.604297
+/usr/share/code/code/21936/1000	0.0482422	0.040625
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.132617	0.604297
+/usr/share/code/code/21936/1000	0.0482422	0.040625
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.132617	0.604297
+/usr/share/code/code/21936/1000	0.0482422	0.040625
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.132617	0.604297
+/usr/share/code/code/21936/1000	0.0482422	0.040625
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.132617	0.604297
+/usr/share/code/code/21936/1000	0.0482422	0.040625
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.132617	0.604297
+/usr/share/code/code/21936/1000	0.0482422	0.040625
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.132617	0.604297
+/usr/share/code/code/21936/1000	0.0482422	0.040625
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.132617	0.604297
+/usr/share/code/code/21936/1000	0.0482422	0.040625
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0
+/usr/share/code/code/21936/1000	0.0144531	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.0105469	0.150781
+/usr/share/code/code/21936/1000	0.0289063	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.0521484	0.301562
+/usr/share/code/code/21936/1000	0.150977	0.0128906
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.0808594	0.301562
+/usr/share/code/code/21936/1000	0.2625	0.0128906
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.322852	0.767969
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.0808594	0.314453
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.337109	0.767969
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.0808594	0.314453
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.337109	0.767969
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.0808594	0.314453
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.337109	0.767969
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.0808594	0.314453
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.0890625	0.767969
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0.0128906
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.0890625	0.767969
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0.0128906
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.0890625	0.767969
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0.0128906
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.30957	0.0333984
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.337891	0.0333984
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.337891	0.0451172
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.0144531	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.337891	0.0451172
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.136523	0.0128906
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.157617	0.604297
+/usr/share/code/code/21936/1000	0.337891	0.0451172
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.157617	0.604297
+/usr/share/code/code/21936/1000	0.337891	0.0451172
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.143164	0.604297
+/usr/share/code/code/21936/1000	0.0271484	0.0720703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.0603516	0.742188
+/usr/share/code/code/21936/1000	0.0521484	0.0720703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.591602	0.762695
+/usr/share/code/code/21936/1000	0.188672	0.0966797
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.570508	0.171289
+/usr/share/code/code/21936/1000	0.300195	0.0966797
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.820508	0.171289
+/usr/share/code/code/21936/1000	0.300195	0.0966797
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.820508	0.171289
+/usr/share/code/code/21936/1000	0.300195	0.0966797
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.329492	0.778516
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.808398	0.0925781
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.224023	1.0625
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.290039	0.144141
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.1125	1.0625
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.65332	0.249609
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.1125	1.0625
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.669922	0.284766
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.355664	1.08301
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.833594	0.381445
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.41641	1.00117
+/usr/share/code/code/21936/1000	0.270312	0.128711
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.48555	1.01172
+/usr/share/code/code/21936/1000	0.270312	0.128711
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.48555	1.02344
+/usr/share/code/code/21936/1000	0.270312	0.128711
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.48555	1.02344
+/usr/share/code/code/21936/1000	0.270312	0.128711
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.48555	1.02344
+/usr/share/code/code/21936/1000	0.270312	0.128711
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.0271484	0.0837891
+/usr/share/code/code/21936/1000	0.0289063	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.0271484	0.0837891
+/usr/share/code/code/21936/1000	0.0289063	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.150977	0.0128906
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.211328	0.755078
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.389844	0.775586
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.402539	0.85918
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.402539	0.85918
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.402539	0.85918
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.402539	0.85918
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.402539	0.85918
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.402539	0.85918
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.402539	0.85918
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.402539	0.85918
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.402539	0.85918
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.402539	0.85918
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.402539	0.85918
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.402539	0.85918
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.402539	0.85918
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.402539	0.85918
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.402539	0.85918
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.402539	0.85918
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.402539	0.85918
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.402539	0.85918
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/21936/1000	0.402539	0.85918
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.0144531	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.0144531	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.150977	0.0128906
+/usr/sbin/NetworkManager/910/0	0.0144531	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.322852	0.755078
+/usr/sbin/NetworkManager/910/0	0.0787109	0.0257812
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.322852	0.755078
+/usr/sbin/NetworkManager/910/0	0.139062	0.14043
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.322852	0.767969
+/usr/sbin/NetworkManager/910/0	0.151953	0.152148
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.59336	0.788477
+/usr/sbin/NetworkManager/910/0	0.151953	0.176758
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.59336	0.788477
+/usr/sbin/NetworkManager/910/0	0.151953	0.176758
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.59336	0.788477
+/usr/sbin/NetworkManager/910/0	0.151953	0.176758
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.325	0.211914
+/usr/sbin/NetworkManager/910/0	0	0.0246094
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.325	0.211914
+/usr/sbin/NetworkManager/910/0	0	0.0246094
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.325	0.211914
+/usr/sbin/NetworkManager/910/0	0	0.0246094
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.325	0.211914
+/usr/sbin/NetworkManager/910/0	0	0.0246094
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.325	0.211914
+/usr/sbin/NetworkManager/910/0	0	0.0246094
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.325	0.211914
+/usr/sbin/NetworkManager/910/0	0	0.0246094
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.136523	0.0128906
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.269141	0.604297
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.321289	1.05078
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.00566	1.0959
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	1.03281	1.1916
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/sbin/NetworkManager/910/0	0	0
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.0144531	0
+/usr/share/code/code/21936/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.0289063	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.150977	0.0128906
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.322852	0.755078
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.77207	0.788477
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code --type=renderer --no-sandbox --field-trial-handle=6752437267184108912,2679041983972864248,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=10887335566287454561 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101/21950/1000	0.784766	0.895703
+unknown TCP/0/0	0	0
