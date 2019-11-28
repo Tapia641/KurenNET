@@ -22,7 +22,7 @@ struct mensaje *Respuesta::getRequest(void)
     struct mensaje* sms = (struct mensaje*)p.obtieneDatos();
     unsigned int reqId = 0;
     memcpy(&reqId, &sms->requestId, sizeof(sms->requestId));
-    printf("\nContRequest: %u SMS->requestId: %d\n", contRequest, reqId);
+    printf("\nN: %u ID: %d\n", contRequest, reqId);
     if(reqId < contRequest) {
         cout << "Paquete repetido. Desechando.." << endl;
         return NULL;

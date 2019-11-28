@@ -65,14 +65,14 @@ int main()
 {
     Respuesta resp(7200);
     struct TrieNode *root = getNode(); 
-    cout << "Servidor B iniciado....\n";
-    std::ofstream file1("registrosB.txt", std::ofstream::out | std::ofstream::trunc);
+    cout << "Servidor iniciado....\n";
+    std::ofstream file1("registros.txt", std::ofstream::out | std::ofstream::trunc);
     file1.close();
     ofstream output;
     while (true) {
         struct mensaje *msj = resp.getRequest();
         if(msj != NULL) {
-            output.open("registrosB.txt", ios::out | ios::app );
+            output.open("registros.txt", ios::out | ios::app );
             struct registro r;
             memcpy(&r, &msj->arguments, sizeof(registro));
 
