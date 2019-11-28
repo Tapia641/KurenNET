@@ -26,8 +26,8 @@ class Kuren:
     asunto = 'REPORTE DE MONITOREO DE BW'
     destinatarios_list = ['rodrigogarciaavila26@gmail.com','tapia641@gmail.com']
     remitente = 'proyectowad1221@gmail.com'
-    path = 'REPORTE.txt'
-    file_name = 'REPORTE.txt'
+    path = 'REPORTE.html'
+    file_name = 'REPORTE.html'
     password ='ytrewq321'
 
     def dataInput(self):
@@ -136,13 +136,45 @@ class Kuren:
         contKills = 0
         if len(LISTA) > 0:
             f = open ('REPORTE.html','w')
+            f.write(
+            '<!DOCTYPE html>'+
+            '<html lang="es">'+
+            '<head>'+
+                '<meta charset="UTF-8">'+
+                '<meta name="viewport" content="width=device-width, initial-scale=1.0">'+
+                '<meta http-equiv="X-UA-Compatible" content="ie=edge">'+
+                '<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">'+
+                '<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>'+
+                '<title>.:Redes 3:.</title>'+
+            '</head>'+
+            '<body>'+
+            '<div class="container">'+
+        '<div class="row m-3 p-3">'+
+        '<div class="col alert alert-danger p-3">'+
+        '<div class="alert alert-success" role="alert">'+
+        '<h4 class="alert-heading">Reporte de Monitoreo!</h4>'+
+        '<p>Lista de procesos ejecutados que se mataron por el exceso de ancho de banda</p>'+
+        '<hr>'+
+        '<p class="mb-0">Gracias por usar nuestro software</p>'+
+        '</div>'+
+        '<ul>'
+            )
             for i in LISTA:
                 print("i: ", i)
                 if not int(i) == self.important:                
                     os.system("kill -TERM %i" % int(i))
-                    f.write("Se mató el proceso <h5> {} a la hora {}\n".format(i,datetime.datetime.now()))
+                    f.write("<li> Se mató el proceso  <b>{}</b> a <i> la hora {} <i> <br> </li>".format(i,datetime.datetime.now()))
                     contKills = contKills + 1
                     print("Se mato al proceso: ", i)
+            f.write(
+                 '</ul>'+
+                 '</div>'+
+                '</div>'+
+                '</div>'+
+                '</body>'+
+                '<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>'+
+                '<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>'+
+                '</html>')
             f.close()
         else:
             os.system("clear")
