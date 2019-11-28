@@ -36,7 +36,6 @@ class Kuren:
                 print(stderr)
         finally:
             timer.cancel()
-        os.system("clear")
 
     def getName(self):
         f = open ('OUTPUT.txt','r+')
@@ -51,7 +50,7 @@ class Kuren:
                      A.append(x[2])
         f.close()
         R = set(A)
-        #print("Esto es R: ", R)
+        print("Esto es R: ", R)
         return R        
         
     def getPID(self, name):
