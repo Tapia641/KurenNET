@@ -1,6 +1,6 @@
 #!/usr/bin/python
 import subprocess
-
+import time
 # LIBRERIAS PARA MAIL
 import smtplib
 from email.mime.multipart import MIMEMultipart
@@ -24,8 +24,8 @@ class Kuren:
     asunto = 'REPORTE DE MONITOREO DE BW'
     destinatarios_list = ['rodrigogarciaavila26@gmail.com','tapia641@gmail.com']
     remitente = 'proyectowad1221@gmail.com'
-    path = 'OUTPUT.txt'
-    file_name = 'OUTPUT.txt'
+    path = 'REPORTE.txt'
+    file_name = 'REPORTE.txt'
     password ='ytrewq321'
 
     def dataInput(self):
@@ -50,7 +50,7 @@ class Kuren:
         #GUARDAMOS LA SALIDA CON EL FLUJO DE DATOS
         print("Ejecutando NetHogs en " + self.interfaz)
         proc = subprocess.Popen("nethogs %s -t > OUTPUT.txt" % self.interfaz, shell=True)
-        timer = Timer(5, proc.kill)
+        timer = Timer(10, proc.kill)
         
         try:
             timer.start()
@@ -133,10 +133,14 @@ class Kuren:
     def killProcess(self, LISTA):
         for i in LISTA:
             print("i: ", i)
-            if not int(i) == self.important:
+            if not int(i) == self.important:                
                 os.system("kill -TERM %i" % int(i))
+                f = open ('REPORTE.txt','w')
+                f.write("Se mató el proceso {} \t a la hora >: {}".format(i,time.gmtime()))
+                f.close()
                 print("Se mato al proceso: ", i)
-                self.sendNotificacion()
+        self.sendNotificacion()
+        print("SE MANDÓ EL REPORTE AL CORREO EXITOSAMENTE")
     
     def sendNotificacion(self):
         # Iniciamos los parámetros del script

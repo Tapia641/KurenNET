@@ -1,0 +1,1 @@
+Se mató el proceso 2689 	 a la hora >: time.struct_time(tm_year=2019, tm_mon=11, tm_mday=28, tm_hour=20, tm_min=55, tm_sec=34, tm_wday=3, tm_yday=332, tm_isdst=0)
