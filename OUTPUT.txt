@@ -1,0 +1,147 @@
+Adding local address: 192.168.15.19
+Adding local address: fe80::be9a:664e:2dc4:f1ed
+Ethernet link detected
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/2469/1000	0.141211	0.0144531
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/2469/1000	0.401172	0.886523
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/2469/1000	0.401172	0.886523
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/2469/1000	0.401172	0.886523
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/code/code/2469/1000	0.401172	0.886523
+//usr/lib64/firefox/firefox/12181/1000	0.19082	0.0919922
+unknown TCP/0/0	0	0
+
+Refreshing:
+//usr/lib64/firefox/firefox/12181/1000	0.235547	0.143555
+/usr/share/code/code/2469/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+//usr/lib64/firefox/firefox/12181/1000	0.235547	0.143555
+/usr/share/code/code/2469/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+//usr/lib64/firefox/firefox/12181/1000	0.235547	0.143555
+/usr/share/code/code/2469/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+//usr/lib64/firefox/firefox/12181/1000	0.235547	0.143555
+/usr/share/code/code/2469/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+//usr/lib64/firefox/firefox/12181/1000	0.235547	0.143555
+/usr/share/code/code/2469/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+//usr/lib64/firefox/firefox/12181/1000	0.0576172	0.0515625
+/usr/share/code/code/2469/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+//usr/lib64/firefox/firefox/12181/1000	0.0576172	0.0515625
+/usr/share/code/code/2469/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+//usr/lib64/firefox/firefox/12181/1000	0.0576172	0.0515625
+/usr/share/code/code/2469/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+//usr/lib64/firefox/firefox/12181/1000	0.0576172	0.0515625
+/usr/share/code/code/2469/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+//usr/lib64/firefox/firefox/12181/1000	0.0576172	0.0515625
+/usr/share/code/code/2469/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+//usr/lib64/firefox/firefox/12181/1000	0.0576172	0.0515625
+/usr/share/code/code/2469/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+//usr/lib64/firefox/firefox/12181/1000	0.0576172	0.0515625
+/usr/share/code/code/2469/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+//usr/lib64/firefox/firefox/12181/1000	0.0576172	0.0515625
+/usr/share/code/code/2469/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+//usr/lib64/firefox/firefox/12181/1000	0.0576172	0.0515625
+/usr/share/code/code/2469/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+//usr/lib64/firefox/firefox/12181/1000	0.0576172	0.0515625
+/usr/share/code/code/2469/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+//usr/lib64/firefox/firefox/12181/1000	0.0128906	0.0128906
+/usr/share/code/code/2469/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+//usr/lib64/firefox/firefox/12181/1000	0.0128906	0.0128906
+/usr/share/code/code/2469/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+//usr/lib64/firefox/firefox/12181/1000	0.0128906	0.0128906
+/usr/share/code/code/2469/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+//usr/lib64/firefox/firefox/12181/1000	0.170508	0.104883
+/usr/share/code/code/2469/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+//usr/lib64/firefox/firefox/12181/1000	0.170508	0.104883
+/usr/share/code/code/2469/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+//usr/lib64/firefox/firefox/12181/1000	0.170508	0.104883
+/usr/share/code/code/2469/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+//usr/lib64/firefox/firefox/12181/1000	0.170508	0.104883
+/usr/share/code/code/2469/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+//usr/lib64/firefox/firefox/12181/1000	0.170508	0.104883
+/usr/share/code/code/2469/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+//usr/lib64/firefox/firefox/12181/1000	0.170508	0.104883
+/usr/share/code/code/2469/1000	0	0
+unknown TCP/0/0	0	0
