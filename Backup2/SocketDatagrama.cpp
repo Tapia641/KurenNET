@@ -71,7 +71,8 @@ int SocketDatagrama::recibeTimeout(PaqueteDatagrama &p, time_t segundos, susecon
 	timeout.tv_sec = segundos;
 	timeout.tv_usec = microsegundos;
 	unsigned int len = sizeof(direccionForanea);
-	setsockopt(s, SOL_SOCKET, SO_RCVTIMEO, (char *)&timeout, sizeof(timeout));
+	int ttl = 60;
+	setsockopt(s, SOL_SOCKET, SO_RCVTIMEO, &ttl, sizeof(timeout));
 
 	int rec = recvfrom(s, (char *)p.obtieneDatos(), p.obtieneLongitud() * sizeof(char), 0, (struct sockaddr *)&direccionForanea, &len);
 	if (rec < 0)
