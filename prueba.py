@@ -53,9 +53,7 @@ class Kuren:
                     # print("THIS IS : {} {} {}".format(g[1],g[2],x[2]))                
                 #      A.append(x[2])
         f.close()
-        R = set(A)
-        print("Esto es R: ", R)
-        return R        
+        return A       
         
     def getPID(self, name):
         #GUARDAMOS TODOS LOS PROCESOS ACTIVOS
@@ -111,4 +109,5 @@ if __name__ == "__main__":
     n.dataInput()
     n.saveOutput()
     A = n.getName()
-    n.getPID(A)
+    print(A)
+    # n.getPID(A)
