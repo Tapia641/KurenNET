@@ -20,6 +20,13 @@ class Kuren:
     interfaz = ""
     important = 0
     limite = 0
+    # Variables de mail
+    asunto = 'REPORTE DE MONITOREO DE BW'
+    destinatarios_list = ['rodrigogarciaavila26@gmail.com','tapia641@gmail.com']
+    remitente = 'proyectowad1221@gmail.com'
+    path = 'OUTPUT.txt'
+    file_name = 'OUTPUT.txt'
+    password ='ytrewq321'
 
     def dataInput(self):
         print("---------------------------------------------------")
@@ -131,14 +138,15 @@ class Kuren:
                 print("Se mato al proceso: ", i)
                 self.sendNotificacion()
     
-    def sendNotificacion(self,origin,password,destinatrios_list,asunt,file_route,file_name):
+    def sendNotificacion(self):
         # Iniciamos los parámetros del script
-        remitente = origin
-        destinatarios = destinatrios_list
-        asunto = asunt
+        remitente = self.remitente
+        destinatarios = self.destinatarios_list
+        asunto = self.asunto
         cuerpo = 'Reporte de monitoreo'
-        ruta_adjunto = file_route
-        nombre_adjunto = file_name
+        ruta_adjunto = self.path
+        nombre_adjunto = self.file_name
+        password = self.password
 
         # Creamos el objeto mensaje
         mensaje = MIMEMultipart()
@@ -172,7 +180,7 @@ class Kuren:
         sesion_smtp.starttls()
 
         # Iniciamos sesión en el servidor
-        sesion_smtp.login(origin,password)
+        sesion_smtp.login(remitente,password)
 
         # Convertimos el objeto mensaje a texto
         texto = mensaje.as_string()
@@ -191,10 +199,4 @@ if __name__ == "__main__":
     L = n.getPID(A)
     n.killProcess(L)
     
-    # asunto = 'REPORTE DE MONITOREO DE BW'
-    # destinatarios = ['rodrigogarciaavila26@gmail.com','tapia641@gmail.com']
-    # remitente = 'proyectowad1221@gmail.com'
-    # path = 'OUTPUT.txt'
-    # file_name = 'OUTPUT.txt'
-    # password ='ytrewq321'
-    # mensaje(remitente,password,destinatarios,asunto,path,file_name)
+
