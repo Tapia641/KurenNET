@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import subprocess
 
 # PARA USAR COMANDOS DEL SISTEMA OPERATIVO
@@ -83,22 +84,24 @@ class Kuren:
     def getNamePID(self):
         f = open ('output.txt','r+')
         lines = f.readlines()
-        A =[]
+        A =dict()
         for i in range(len(lines)):
             if lines[i] == "Refreshing:\n":
                 l = lines[i+1]                      
                 x = l.split("/")
-                x.reverse()
+                x.reverse()                
                 if(len(x)>3):
-                     A.append(x[2])
+                    g = x[0].split("\t")
+                    A.update({x[2]:[g[1],g[2].rstrip()]})                    
+                    # print("THIS IS : {} {} {}".format(g[1],g[2],x[2]))                
+                #      A.append(x[2])
         f.close()
-        R = set(A)
-        print("ESTO ES R: ",R)
-        return R        
-        
-n = Kuren()
-n.function()
-n.outputData()
-
-A = n.getNamePID()
-n.getPID(A, "", "")
+        #R = set(A)
+        # print("ESTO ES R: ",A)
+        return A
+if __name__ == '__main__':                
+    n = Kuren()
+    n.function()
+    n.outputData()
+    A = n.getNamePID()
+    #n.getPID(A, "", "")
