@@ -76,6 +76,7 @@ class Kuren:
                 x.reverse()                
                 if(len(x)>3):
                     g = x[0].split("\t")
+                    print(g)
                     A.update({x[2]:[g[1],g[2].rstrip()]})                    
                     # print("THIS IS : {} {} {}".format(g[1],g[2],x[2]))                
                 #      A.append(x[2])

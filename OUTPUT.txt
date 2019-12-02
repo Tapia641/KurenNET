@@ -1,96 +1,491 @@
-Adding local address: 10.100.74.167
-Adding local address: fe80::c727:610d:367a:2cc6
+Adding local address: 10.100.64.197
+Adding local address: fe80::5769:13e:7155:50b
 Ethernet link detected
 
 Refreshing:
 unknown TCP/0/0	0	0
 
 Refreshing:
-10.100.74.167:54498-74.125.195.109:587/0/0	0	0.0117188
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.151367	0.046875
 unknown TCP/0/0	0	0
 
 Refreshing:
-10.100.74.167:54498-74.125.195.109:587/0/0	0	0.0117188
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.151367	0.046875
 unknown TCP/0/0	0	0
 
 Refreshing:
-10.100.74.167:54498-74.125.195.109:587/0/0	0	0.0117188
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.151367	0.046875
 unknown TCP/0/0	0	0
 
 Refreshing:
-/opt/google/chrome/chrome/14266/1000	0.0105469	0.0117188
-10.100.74.167:54498-74.125.195.109:587/0/0	0	0.0117188
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.151367	0.046875
+/opt/google/chrome/chrome/8362/1000	0.0105469	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-/opt/google/chrome/chrome/14266/1000	0.0105469	0.0117188
-10.100.74.167:54498-74.125.195.109:587/0/0	0	0.0117188
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.151367	0.046875
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
 unknown TCP/0/0	0	0
 
 Refreshing:
-/opt/google/chrome/chrome/14266/1000	0.0421875	0.046875
-10.100.74.167:54498-74.125.195.109:587/0/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.151367	0.046875
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
 unknown TCP/0/0	0	0
 
 Refreshing:
-/opt/google/chrome/chrome/14266/1000	0.0421875	0.046875
-10.100.74.167:54498-74.125.195.109:587/0/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.151367	0.046875
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
 unknown TCP/0/0	0	0
 
 Refreshing:
-/opt/google/chrome/chrome/14266/1000	0.0421875	0.046875
-10.100.74.167:54498-74.125.195.109:587/0/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.151367	0.046875
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
 unknown TCP/0/0	0	0
 
 Refreshing:
-/opt/google/chrome/chrome/14266/1000	0.0460938	0.0351562
-10.100.74.167:54498-74.125.195.109:587/0/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.151367	0.046875
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
 unknown TCP/0/0	0	0
 
 Refreshing:
-/opt/google/chrome/chrome/14266/1000	0.0460938	0.0351562
-10.100.74.167:54498-74.125.195.109:587/0/0	0	0
-unknown TCP/0/0	0	0
-oogle/chrome/chrome/14266/1000	8.8377	195.626
-python3/14779/0	1.29668	1.12188
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.151367	0.046875
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
 unknown TCP/0/0	0	0
 
 Refreshing:
-/opt/google/chrome/chrome/14266/1000	8.8377	195.626
-python3/14779/0	1.29668	1.12188
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.151367	0.046875
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
 unknown TCP/0/0	0	0
 
 Refreshing:
-python3/14779/0	1.01016	0.256445
-/opt/google/chrome/chrome/14266/1000	0.025	0.0117188
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.151367	0.046875
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
 unknown TCP/0/0	0	0
 
 Refreshing:
-python3/14779/0	1.01016	0.256445
-/opt/google/chrome/chrome/14266/1000	0.025	0.0117188
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.151367	0.046875
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
 unknown TCP/0/0	0	0
 
 Refreshing:
-/opt/google/chrome/chrome/14266/1000	0.0421875	0.046875
-python3/14779/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.151367	0.046875
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
 unknown TCP/0/0	0	0
 
 Refreshing:
-/opt/google/chrome/chrome/14266/1000	0.0421875	0.046875
-python3/14779/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.151367	0.046875
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
 unknown TCP/0/0	0	0
 
 Refreshing:
-/opt/google/chrome/chrome/14266/1000	0.0421875	0.046875
-python3/14779/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.151367	0.046875
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
 unknown TCP/0/0	0	0
 
 Refreshing:
-/opt/google/chrome/chrome/14266/1000	0.0460938	0.0351562
-python3/14779/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.151367	0.046875
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
 unknown TCP/0/0	0	0
 
 Refreshing:
-/opt/google/chrome/chrome/14266/1000	0.0460938	0.0351562
-python3/14779/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.20332	0.725
+/opt/google/chrome/chrome/8362/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.424219	0.90918
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
+unknown TCP/0/0	0	0
+
+Refreshing:
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.424219	0.90918
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
+unknown TCP/0/0	0	0
+
+Refreshing:
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.424219	0.90918
+/opt/google/chrome/chrome/8362/1000	0.0421875	0.046875
+unknown TCP/0/0	0	0
+
+Refreshing:
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.424219	0.90918
+/opt/google/chrome/chrome/8362/1000	0.0421875	0.046875
+unknown TCP/0/0	0	0
+
+Refreshing:
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.424219	0.90918
+/opt/google/chrome/chrome/8362/1000	0.0421875	0.046875
+unknown TCP/0/0	0	0
+
+Refreshing:
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.424219	0.90918
+/opt/google/chrome/chrome/8362/1000	0.0421875	0.046875
+unknown TCP/0/0	0	0
+
+Refreshing:
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.424219	0.90918
+/opt/google/chrome/chrome/8362/1000	0.0421875	0.046875
+unknown TCP/0/0	0	0
+
+Refreshing:
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.424219	0.90918
+/opt/google/chrome/chrome/8362/1000	0.0421875	0.046875
+unknown TCP/0/0	0	0
+
+Refreshing:
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.424219	0.90918
+/opt/google/chrome/chrome/8362/1000	0.0421875	0.046875
+unknown TCP/0/0	0	0
+
+Refreshing:
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0.424219	0.90918
+/opt/google/chrome/chrome/8362/1000	0.0421875	0.046875
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0210938	0.0462891
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0210938	0.0580078
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0210938	0.0580078
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0210938	0.0580078
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0421875	0.0931641
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0421875	0.0931641
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.137109	0.152344
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.137109	0.152344
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.16875	0.1875
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.16875	0.1875
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.16875	0.152344
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/opt/google/chrome/chrome/8362/1000	0.0632813	0.0585938
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/opt/google/chrome/chrome/8362/1000	0.0632813	0.0585938
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/opt/google/chrome/chrome/8362/1000	0.0632813	0.0585938
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/opt/google/chrome/chrome/8362/1000	0.0632813	0.0585938
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/opt/google/chrome/chrome/8362/1000	0.0632813	0.0585938
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/opt/google/chrome/chrome/8362/1000	0.0632813	0.0585938
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/opt/google/chrome/chrome/8362/1000	0.0632813	0.0585938
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/opt/google/chrome/chrome/8362/1000	0.0632813	0.0585938
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/opt/google/chrome/chrome/8362/1000	0.0632813	0.0585938
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/opt/google/chrome/chrome/8362/1000	0.0632813	0.0585938
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/opt/google/chrome/chrome/8362/1000	0.0632813	0.0585938
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
+/usr/sbin/NetworkManager/890/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
+/usr/sbin/NetworkManager/890/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
+/usr/sbin/NetworkManager/890/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
+/usr/sbin/NetworkManager/890/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/opt/google/chrome/chrome/8362/1000	0.0632813	0.0585938
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
+/usr/sbin/NetworkManager/890/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
+/usr/sbin/NetworkManager/890/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
+/usr/sbin/NetworkManager/890/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
+/usr/sbin/NetworkManager/890/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+e/8362/1000	0.0105469	0.0117188
+/usr/sbin/NetworkManager/890/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
+/usr/sbin/NetworkManager/890/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
+/usr/sbin/NetworkManager/890/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
+/usr/sbin/NetworkManager/890/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+ropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+/opt/google/chrome/chrome/8362/1000	0.0105469	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
+/usr/sbin/NetworkManager/890/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
+/usr/sbin/NetworkManager/890/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
+/usr/sbin/NetworkManager/890/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+55/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
+/usr/sbin/NetworkManager/890/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+e/chrome/8362/1000	0.16875	0.1875
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/home/rodrigo/.dropbox-dist/dropbo
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.16875	0.1875
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.16875	0.1875
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/home/rodrigo/.dropbox-dist/dropbo
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.16875	0.152344
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/opt/google/chrome/chrome/8362/1000	0.0632813	0.0585938
+/home/rodrigo/.dropbox-dist/dropbo
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/opt/google/chrome/chrome/8362/1000	0.0632813	0.0585938
+/home/rodrigo/.dropbox-dist/dropbo
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/opt/google/chrome/chrome/8362/1000	0.0632813	0.0585938
+/home/rodrigo/.dropbox-dist/dropbo
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/opt/google/chrome/chrome/8362/1000	0.0632813	0.0585938
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/opt/google/chrome/chrome/8362/1000	0.0632813	0.0585938
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/opt/google/chrome/chrome/8362/1000	0.0632813	0.0585938
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/opt/google/chrome/chrome/8362/1000	0.0632813	0.0585938
+/home/rodrigo/.dropbox-dist/dropbo
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/opt/google/chrome/chrome/8362/1000	0.0632813	0.0585938
+/home/rodrigo/.dropbox-dist/dropbo
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/opt/google/chrome/chrome/8362/1000	0.0632813	0.0585938
+/home/rodrigo/.dropbox-dist/dropbo
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/opt/google/chrome/chrome/8362/1000	0.0632813	0.0585938
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/sbin/NetworkManager/890/0	0.0736328	0.0863281
+/opt/google/chrome/chrome/8362/1000	0.0632813	0.0585938
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
+/usr/sbin/NetworkManager/890/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
+/usr/sbin/NetworkManager/890/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.011
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
+/usr/sbin/NetworkManager/890/0	0	0
+/home/rodrigo/.dropbox-dist/dropbo
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.011
+Refreshing:
+/opt/google/chrome/chrome/8362/1000	0.0105469	0.0117188
+/usr/sbin/NetworkManager/890/0	0	0
+/home/rodrigo/.dropbox-dist/dropbox-lnx.x86_64-85.4.155/dropbox/1693/1000	0	0
 unknown TCP/0/0	0	0
