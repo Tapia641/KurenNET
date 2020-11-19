@@ -24,11 +24,11 @@ class Kuren:
     limite = 0
     # Variables de mail
     asunto = 'REPORTE DE MONITOREO DE BW'
-    destinatarios_list = ['rodrigogarciaavila26@gmail.com','tapia641@gmail.com']
-    remitente = 'proyectowad1221@gmail.com'
+    destinatarios_list = ['',''] #receptor mail list
+    remitente = 'mailtest@mailtest.com'
     path = 'REPORTE.html'
     file_name = 'REPORTE.html'
-    password ='ytrewq321'
+    password ='pass_mailtest'
 
     def dataInput(self):
         print("---------------------------------------------------")
